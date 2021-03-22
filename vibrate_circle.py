@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
 #python_vibrate_circle
 import turtle  
 # Creating turtle  
@@ -33,16 +29,3 @@ t.pencolor("red")
 t.write("CORONA-VIRUS", align="CENTER", font=("Dades", 35))
 t.penup()
 turtle.done()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
